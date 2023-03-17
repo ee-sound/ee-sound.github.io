@@ -132,3 +132,4 @@ section h2, .tit_sec_sub{font-family:'MapoFlowerIsland';}
 .audio_wrap audio{display:inline-block;}
 .ado_txt{font-size:1rem;color:#838383;}
 .ado_txt span{font-size:0.5rem}
+.ado_txt + .ado_txt{margin-top:1rem}
