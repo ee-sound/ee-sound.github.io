@@ -7,7 +7,7 @@ $(function(){
 });
 
 $(document).ready(function(){
-    $(document).snowfall({
+    $('body').snowfall({
         image : "./images/ico_flower2.png",
         minSize: 5,
         maxSize:13,
