@@ -107,6 +107,8 @@ section h2, .tit_sec_sub{font-family:'MapoFlowerIsland';}
 .transport_wrap > li .dep3 > li + li{margin-top:0.5rem}
 .transport_wrap > li + li:before{top:2rem;}
 .transport_wrap > li + li:after{top:2.7rem;}
+.fc_brown{color:#b98b62;}
+.parking_area{padding-top:1rem}
 .btn_wrap{margin:3rem 0 0;width:100%;text-align:center;}
 .btn_kakao{display:inline-block;width:17rem;height:3rem;text-align:center;font-size:1.2rem;font-weight:900;color:#191919;background:#fee500 url(../images/ico_kakao.png) no-repeat center left 1.4rem / 1.2rem 1.1rem;border-radius:0.3rem;}
 
